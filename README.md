@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ashish-Singh0
+- 👋 Hi, I’m Ashish Singh
 - 👀 I’m interested in Robotics and Cybersec
 - 🌱 I’m currently learning my skills in Robotics such as OpenCv, ROS, e.t.c
 - 💞️ I’m looking to collaborate on Innovative projects and startups 
